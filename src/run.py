@@ -4,7 +4,7 @@ matplotlib.use("Agg")
 
 import numpy as np
 import matplotlib.pyplot as plt
-from game import LewisGame
+from .game import LewisGame
 
 def train(steps=5000, seed=0):
     game = LewisGame(n_states=3, n_signals=3, lr=0.2, seed=seed)
@@ -23,7 +23,7 @@ def train(steps=5000, seed=0):
     return game, rewards, accs
 
 if __name__ == "__main__":
-    game, rewards, accs = train(steps=5000, seed=1)
+    game, rewards, accs = train(steps=2000, seed=1)
     plt.plot(accs)
     plt.xlabel("Step")
     plt.ylabel("Moving average reward")
