@@ -1,3 +1,7 @@
+# force non-GUI backend for matplotlib to avoid GTK issues
+import matplotlib
+matplotlib.use("Agg")
+
 import numpy as np
 import matplotlib.pyplot as plt
 from game import LewisGame
@@ -25,5 +29,6 @@ if __name__ == "__main__":
     plt.ylabel("Moving average reward")
     plt.title("Lewis Signaling Game learning curve")
     plt.grid(True)
-    plt.savefig("learning_curve.png")
-    print("Saved learning_curve.png")
+    out = "learning_curve.png"
+    plt.savefig(out)
+    print(f"Saved {out}")
