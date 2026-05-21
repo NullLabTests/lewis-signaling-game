@@ -105,21 +105,6 @@ Like Lewis games, molecular signaling systems evolved without design:
 **This is emergent communication through macromolecules**—exactly what our Lewis game models, but running on biological computers for eons.
 
 ## Demo Video
-
-Watch the agents invent a shared language in real time:
-
-[▶️ Play Demo Video](./demo.mp4)
-
-### Modern Applications: Drug Design as "Language Learning"
-
-Drug discovery often involves:
-- Reverse-engineering the "meaning" of a signal (e.g., what does TNF-α signaling mean?)
-- Designing new ligands (synthetic "words") that exploit or block that meaning
-- Training a system to recognize and act on these new signals
-
-AI-driven drug discovery (AlphaFold, graph neural nets) is learning the **molecular language**—teaching machines to predict how a macromolecule's structure encodes meaning through binding.
-
----
 ## Implementation
 
 This repo implements a minimal Lewis game with pure NumPy:
