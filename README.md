@@ -134,3 +134,15 @@ for _ in range(2000):
     signal, action, reward = game.step(state)
     game.update(state, signal, action, reward)
 ```
+## 🎥 Demo Video
+
+**Watch the agents invent a shared language in real time (Streamlit dashboard):**
+
+<video src="https://github.com/NullLabTests/lewis-signaling-game/raw/main/demo.mp4" 
+       controls 
+       width="100%" 
+       style="max-width:800px; display:block; margin:0 auto; border-radius:8px;">
+  Your browser does not support the video tag.
+</video>
+
+*(Click the play button — no download needed)*
