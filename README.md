@@ -104,6 +104,12 @@ Like Lewis games, molecular signaling systems evolved without design:
 
 **This is emergent communication through macromolecules**—exactly what our Lewis game models, but running on biological computers for eons.
 
+## Demo Video
+
+Watch the agents invent a shared language in real time:
+
+[▶️ Play Demo Video](./demo.mp4)
+
 ### Modern Applications: Drug Design as "Language Learning"
 
 Drug discovery often involves:
