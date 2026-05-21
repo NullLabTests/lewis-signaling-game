@@ -146,3 +146,16 @@ for _ in range(2000):
 </video>
 
 *(Click the play button — no download needed)*
+
+## 🎥 Demo Video
+
+**Watch the agents invent a shared language in real time:**
+
+<video src="https://github.com/NullLabTests/lewis-signaling-game/raw/main/demo.mp4" 
+       controls 
+       width="100%" 
+       style="max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
+  Your browser does not support the video tag.
+</video>
+
+*Playable inline — no download needed*
