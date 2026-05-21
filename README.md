@@ -4,7 +4,7 @@ A multi-agent simulation of emergent communication learning through reinforcemen
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ewis-signaling-game/ss.png" alt="NullLabTests Primary Logo" width="800" />
+  <img src="https://raw.githubusercontent.com/lewis-signaling-game/ss.png" alt="Screenshot of Streamlit UI" width="800" />
 </div>
 
 ## What is a Lewis Signaling Game?
