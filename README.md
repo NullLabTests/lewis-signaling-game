@@ -2,6 +2,11 @@
 
 A multi-agent simulation of emergent communication learning through reinforcement learning, inspired by evolutionary game theory and artificial life.
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ewis-signaling-game/ss.png" alt="NullLabTests Primary Logo" width="800" />
+</div>
+
 ## What is a Lewis Signaling Game?
 
 A **Lewis signaling game** is a game-theoretic model of communication between two agents: a **sender** and a **receiver**. Named after philosopher David K. Lewis, the game works as follows:
